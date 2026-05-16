@@ -208,6 +208,7 @@ function App() {
               <a
                 href="https://leads.goldenteam.in/?h=c2pDeGFka0JROWIzbVYvcTcxc2NyQT09"
                 target="_blank"
+                rel="noreferrer"
                 class="action-btn btn-orange"
               >
                 Open Free Account &rarr;
@@ -225,6 +226,7 @@ function App() {
               <a
                 href="https://leads.banksathi.com/?h=ZTJ0alAvd2RqMnBLQ1NGeGpGelZyZz09"
                 target="_blank"
+                rel="noreferrer"
                 class="action-btn btn-blue"
               >
                 Apply Now &rarr;
@@ -242,6 +244,7 @@ function App() {
               <a
                 href="https://leads.banksathi.com/?h=MGpFbzZQc1V2K0YwdjFwSUpyWlR6UT09"
                 target="_blank"
+                rel="noreferrer"
                 class="action-btn btn-green"
               >
                 Start Investing &rarr;
