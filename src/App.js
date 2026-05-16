@@ -194,55 +194,58 @@ function App() {
           </div>
         </div>
       </div>
-      <section class="promo-container">
-        <h3 class="promo-title">🚀 Best Tools to Grow Your Wealth</h3>
+      <section className="promo-container">
+        <h3 className="promo-title">🚀 Best Tools to Grow Your Wealth</h3>
 
-        <div class="card-grid">
-          <div class="offer-card">
-            <div class="card-icon">📈</div>
-            <div class="card-content">
-              <h4 class="card-heading">Angel One (Free)</h4>
-              <p class="card-desc">
+        <div className="card-grid">
+          <div className="offer-card">
+            <div className="card-icon">📈</div>
+            <div className="card-content">
+              <h4 className="card-heading">Angel One (Free)</h4>
+              <p className="card-desc">
                 Zero Brokerage on Delivery. Best for beginners starting SIP.
               </p>
               <a
                 href="https://leads.goldenteam.in/?h=c2pDeGFka0JROWIzbVYvcTcxc2NyQT09"
                 target="_blank"
-                class="action-btn btn-orange"
+                rel="noreferrer"
+                className="action-btn btn-orange"
               >
                 Open Free Account &rarr;
               </a>
             </div>
           </div>
 
-          <div class="offer-card">
-            <div class="card-icon">💳</div>
-            <div class="card-content">
-              <h4 class="card-heading">Lifetime Free Card</h4>
-              <p class="card-desc">
+          <div className="offer-card">
+            <div className="card-icon">💳</div>
+            <div className="card-content">
+              <h4 className="card-heading">Lifetime Free Card</h4>
+              <p className="card-desc">
                 Get SBI Credit Card. No Annual Fee. Best for shopping.
               </p>
               <a
                 href="https://leads.banksathi.com/?h=ZTJ0alAvd2RqMnBLQ1NGeGpGelZyZz09"
                 target="_blank"
-                class="action-btn btn-blue"
+                rel="noreferrer"
+                className="action-btn btn-blue"
               >
                 Apply Now &rarr;
               </a>
             </div>
           </div>
 
-          <div class="offer-card">
-            <div class="card-icon">🦄</div>
-            <div class="card-content">
-              <h4 class="card-heading">Upstox Pro</h4>
-              <p class="card-desc">
+          <div className="offer-card">
+            <div className="card-icon">🦄</div>
+            <div className="card-content">
+              <h4 className="card-heading">Upstox Pro</h4>
+              <p className="card-desc">
                 Join millions of investors. Fast and reliable trading app.
               </p>
               <a
                 href="https://leads.banksathi.com/?h=MGpFbzZQc1V2K0YwdjFwSUpyWlR6UT09"
                 target="_blank"
-                class="action-btn btn-green"
+                rel="noreferrer"
+                className="action-btn btn-green"
               >
                 Start Investing &rarr;
               </a>
@@ -250,7 +253,7 @@ function App() {
           </div>
         </div>
       </section>
-      <div class="content-section">
+      <div className="content-section">
         <h1>SIP Calculator: Calculate Mutual Fund Returns Online</h1>
         <p>
           Welcome to India's fastest <strong>SIP Calculator</strong>. If you are
@@ -295,7 +298,7 @@ function App() {
           <strong>n</strong> is the total number of payments.
         </p>
 
-        <p class="disclaimer">
+        <p className="disclaimer">
           <em>
             Disclaimer: Mutual Fund investments are subject to market risks.
             Please read all scheme-related documents carefully. This tool
@@ -303,11 +306,11 @@ function App() {
           </em>
         </p>
       </div>
-      <div class="content-section faq-container">
+      <div className="content-section faq-container">
         <h2>💡 Frequently Asked Questions (FAQs)</h2>
 
-        <div class="faq-item">
-          <h3 class="faq-question">1. Can I start SIP with ₹500?</h3>
+        <div className="faq-item">
+          <h3 className="faq-question">1. Can I start SIP with ₹500?</h3>
           <p>
             Yes! Many top mutual funds in India allow you to start a SIP with as
             low as <strong>₹500 or even ₹100 per month</strong>. You don't need
@@ -315,8 +318,8 @@ function App() {
           </p>
         </div>
 
-        <div class="faq-item">
-          <h3 class="faq-question">2. Can I withdraw my money anytime?</h3>
+        <div className="faq-item">
+          <h3 className="faq-question">2. Can I withdraw my money anytime?</h3>
           <p>
             Yes, open-ended mutual funds offer high liquidity. You can withdraw
             your money anytime with a click of a button. However, ELSS funds
@@ -324,8 +327,8 @@ function App() {
           </p>
         </div>
 
-        <div class="faq-item">
-          <h3 class="faq-question">3. Is SIP Tax-Free?</h3>
+        <div className="faq-item">
+          <h3 className="faq-question">3. Is SIP Tax-Free?</h3>
           <p>
             Not all SIPs are tax-free. However, if you invest in
             <strong>ELSS (Equity Linked Savings Scheme)</strong>, you can save
@@ -333,8 +336,8 @@ function App() {
           </p>
         </div>
 
-        <div class="faq-item">
-          <h3 class="faq-question">4. Which is better: FD or SIP?</h3>
+        <div className="faq-item">
+          <h3 className="faq-question">4. Which is better: FD or SIP?</h3>
           <p>
             Fixed Deposits (FD) usually offer 6-7% returns, while SIPs in Equity
             Mutual Funds can offer <strong>12-15% returns</strong> over the long
